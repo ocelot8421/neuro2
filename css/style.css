@@ -211,3 +211,7 @@ ol.electionAdvice p {
     padding-left: 1em;
     text-align: justify;
 }
+
+small {
+    color: lightslategray;
+}
